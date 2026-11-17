@@ -1,80 +1,111 @@
-# Lokesh Pargain 👋
+<!-- Profile README for github.com/Lokesh087 -->
 
-**AI / Data Science | Software Development**
+<div align="center">
 
-🔗 [LinkedIn](https://www.linkedin.com/in/lokesh-pargain-4319b1283/)
-💻 [GitHub](https://github.com/Lokesh087)
+# Hey, I'm Lokesh Pargain 👋
 
----
+### Software Development Engineer Intern · AI & Machine Learning
 
-## 👨‍💻 About Me
+I build practical software, backend systems, and AI-powered products.
 
-I am a Computer Science undergraduate passionate about Artificial Intelligence, Data Analytics, and Software Development.
+<p>
+  <a href="https://lokesh-portfolio-gilt.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/lokesh-pargain-4319b1283/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:pargainlokesh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-I enjoy building AI-driven systems and automation pipelines that solve real-world problems and improve efficiency. I have hands-on experience with backend development, machine learning workflows, and data processing.
-
----
-
-## 🛠️ Technical Skills
-
-- **Languages:** Python, Java, C, JavaScript, HTML, CSS
-- **AI / Data Science:** Data preprocessing, ML pipelines, feature engineering
-- **Backend:** Flask, FastAPI, REST APIs, Automation Workflows
-- **Databases:** MySQL, SQLite
-- **Tools:** Git, GitHub, VS Code, Anaconda, Google Colab, Kaggle
+</div>
 
 ---
 
-## 🚀 Projects
+## About
 
-### 🔹 PricePilot AI – End-to-End ML Application for E-commerce Price Prediction
+I'm a Computer Science & Engineering undergraduate at **Amrapali University**, specialising in **Artificial Intelligence & Machine Learning** (2024–2028, CGPA **8.13**).
 
-- Built an end-to-end machine learning application to predict e-commerce product selling prices, developed as part of the Infosys Springboard Internship.
-- Trained and compared multiple models (Linear Regression, Decision Tree, Random Forest, Gradient Boosting, XGBoost) on the Brazilian Olist dataset.
-- Deployed the pipeline using FastAPI for real-time predictions.
+My work sits at the intersection of software engineering and applied AI. I enjoy taking ideas from prototype to usable applications, with an emphasis on clean implementation, reliable backends, and thoughtful user experiences.
 
-### 🔹 AIVEX – AI-Based Advanced Data Analytics System
+- 💼 **Currently:** Software Development Engineer Intern at **BUIMB Research**
+- 🎓 **Studying:** B.Tech in CSE (AI & ML)
+- 🔍 **Interested in:** Software Engineering, Backend Development, Applied AI, and LLM-powered applications
+- 🤝 **Open to:** Software development and AI engineering opportunities
 
-- Automated data collection, processing, and analytics using AI.
-- Reduced manual analysis effort by ~60%.
-- Improved decision accuracy by ~40% through ML-driven insights.
+## Tech Stack
 
-### 🔹 AI-Driven Smart Recruitment System
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nodejs,fastapi,postgres,mongodb,sqlite,git,github,docker,vscode&perline=8" alt="Technology stack" />
+</p>
 
-- Built an AI-powered recruitment automation platform.
-- Automated candidate screening and chatbot-based interaction.
-- Reduced recruiter workload and improved response time.
+| Area | Tools & concepts |
+|---|---|
+| **Languages** | Python, JavaScript, TypeScript, C |
+| **Web** | HTML, CSS, React, Node.js |
+| **AI / ML** | Machine Learning, Price Prediction, Demand Forecasting, Feature Engineering |
+| **Backend & APIs** | FastAPI, REST APIs |
+| **Databases** | SQL, SQLite, PostgreSQL, MongoDB |
+| **Developer tools** | Git, GitHub, VS Code, Postman, Docker |
 
----
+## Selected Projects
 
-## 💼 Experience
+### [PricePilot AI — Price Prediction & Demand Forecasting](https://github.com/Lokesh087)
+An end-to-end machine learning platform exploring e-commerce pricing and demand forecasting with time-series modelling.
 
-**Software Development Engineer Intern – Buimb Research**
-- Working on software development and engineering tasks as an SDE Intern.
+- Built forecasting workflows using historical sales data and Facebook Prophet.
+- Worked on data merging, preprocessing, model evaluation, and prediction serving.
+- **Stack:** Python · Prophet · FastAPI · SQL
 
-**Intern – Infosys Springboard**
-- Building PricePilot AI, an end-to-end ML application for e-commerce price prediction.
-- Working across the ML pipeline: data preprocessing, model training/evaluation, and FastAPI deployment.
+### [Smart Recruiter — AI Recruitment System](https://github.com/Lokesh087)
+An AI-assisted recruitment platform designed to streamline candidate screening and hiring workflows.
 
-**Software Development Intern – Infotact Solution**
+- Developed candidate analysis, chatbot interaction, and smart filtering features.
+- **Stack:** Python · Machine Learning · SQL
+
+### [AI Resume Builder](https://github.com/Lokesh087)
+A full-stack resume builder using Claude AI to support resume creation and career-document workflows.
+
+- Implemented JWT authentication and resume CRUD.
+- Built AI features including summary generation, ATS scoring, and cover-letter generation.
+- **Stack:** React · Node.js · MongoDB · Express · Anthropic SDK
+
+> Explore more work and project details on my **[portfolio](https://lokesh-portfolio-gilt.vercel.app)**.
+
+## Experience
+
+**Software Development Engineer Intern — BUIMB Research** · *Jun 2026 – Present*
+- Working on software applications, backend services, and workflow automation.
+- Contributing to REST APIs, database integration, authentication, and performance improvements.
+
+**AI Intern — Infosys** · *Jun 2026 – Aug 2026*
+- Worked on AI-powered price prediction and demand forecasting.
+- Built predictive modelling workflows and analytical dashboards using Python and SQL.
+
+**Python Developer Intern — Infotact Solutions** · *Mar 2025 – Apr 2025*
 - Worked on Python-based backend and automation applications.
-- Assisted in data preprocessing, API logic, and system optimization.
-- Gained exposure to industry-level development practices.
+- Contributed to data preprocessing, API logic, and system optimisation.
+
+## Leadership & Achievements
+
+- **Google Student Ambassador** — supported student developer communities and organised technical sessions.
+- **ET-AI Hackathon 2026** — Semi-finalist.
+- **Serve Smart Hackathon** — Round 2 qualifier.
+- **Hack for Green Bharat** — Participant.
+
+## GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lokesh087&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh087&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Lokesh087&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</div>
 
 ---
 
-## 🌱 Currently Looking For
+<div align="center">
 
-- AI / Data Science Internship
-- Software Development Internship
+### Let's build something meaningful.
 
----
+**[Portfolio](https://lokesh-portfolio-gilt.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/lokesh-pargain-4319b1283/)** · **[Email](mailto:pargainlokesh@gmail.com)**
 
-## 🤝 Leadership & Community
-
-- **Google Student Ambassador**
-- Actively involved in peer learning, technical initiatives, and developer communities
-
----
-
-⭐ *Feel free to explore my repositories and connect with me on LinkedIn!*
+</div>
