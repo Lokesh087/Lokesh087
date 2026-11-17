@@ -92,13 +92,19 @@ A full-stack resume builder using Claude AI to support resume creation and caree
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lokesh087&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh087&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+
+  <a href="https://github.com/Lokesh087?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
+  <img src="https://img.shields.io/github/followers/Lokesh087?style=for-the-badge&logo=github&label=Followers&color=0A66C2" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Lokesh087?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=E3A008" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/last-commit/Lokesh087/Personal_Website?style=for-the-badge&logo=github&label=Portfolio%20last%20commit&color=0F766E" alt="Portfolio last commit" />
+
+  <br/><br/>
+
+  <a href="https://github.com/Lokesh087?tab=repositories">Browse my repositories and pinned projects →</a>
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lokesh087&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</div>
+> GitHub activity and repository details update from GitHub. If a third-party stats service is unavailable, these profile badges remain a lightweight alternative.
 
 ---
 
