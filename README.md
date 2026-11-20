@@ -6,6 +6,8 @@
 
 ### Software Development Engineer Intern · AI & Machine Learning
 
+<img src="assets/profile-banner.svg" alt="LOKESH PARGAIN — AI ENGINEER" width="100%" />
+
 I build practical software, backend systems, and AI-powered products.
 
 <p>
